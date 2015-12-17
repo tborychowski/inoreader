@@ -3,9 +3,6 @@
   "version": "0.3.1",
   "description": "A Node.js wrapper of the Inoreader.com API.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "inoreader"
   ],
@@ -16,7 +13,6 @@
   "author": "John Titus",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.0.6",
     "request": "^2.67.0"
   }
 }
