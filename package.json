@@ -1,17 +1,17 @@
 {
   "name": "inoreader",
-  "version": "0.3.1",
-  "description": "A Node.js wrapper of the Inoreader.com API.",
+  "version": "1.0.0",
+  "description": "A nodejs wrapper for unread counter checking in Inoreader",
   "main": "index.js",
   "keywords": [
     "inoreader"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/johntitus/inoreader.git"
+    "url": "https://github.com/tborychowski/inoreader.git"
   },
-  "author": "John Titus",
-  "license": "ISC",
+  "author": "tom",
+  "license": "MIT",
   "dependencies": {
     "request-promise": "^1.0.2"
   }
